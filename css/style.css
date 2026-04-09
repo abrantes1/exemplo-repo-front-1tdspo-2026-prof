@@ -35,15 +35,19 @@ main{
     margin: 0 auto;
 }
 
-#cabecalho{ 
-    background-color: #1c2b3c; 
+#menu{
+
 }
-     
-#menu ul{ 
+
+#menu ul{
     list-style: none; 
 }
 
-#menu ul li {
-    display: inline-block;
+#menu ul li{
+    display: inline;
     width: 20%;
+}
+
+#cabecalho{
+    background-color: #30312e;
 }
